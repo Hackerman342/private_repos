@@ -1,7 +1,7 @@
 # private_repos
 A comprehensive list of my private repositories
 
-This list references all of my repositories containing solutions specific to coursework that I have made private in keeping with the academic honor code. I would be happy to share these with anyone wishing to evaluate the scope of my experience.
+This list references all of my repositories containing solutions to specific course assignments that I have kept private in keeping with the academic honor code. I would be happy to share these with anyone wishing to evaluate the scope of my experience.
 
 Please contact me at kwc57@cornell.edu with any questions or requests.
 
