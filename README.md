@@ -9,7 +9,7 @@ Please contact me at kwc57@cornell.edu with any questions or requests.
 Private Repositories:
  - Dubins_path:
  
-       A* and Pure Pursuit for obstacle avoidance with Dubin's Car
+       A* and Pure Pursuit for obstacle avoidance with Dubin's Car (Python)
  - EKF_Localization:
  
        EKF Localization in a MATLAB Simulation Environment
@@ -24,16 +24,16 @@ Private Repositories:
        Image Segmentation in MATLAB
  - Inverse_Kinematics:
  
-       Inverse Kinematics for SCARA (3 DOF) and KUKA (7 DOF) robotic arms
+       Inverse Kinematics for SCARA (3 DOF) and KUKA (7 DOF) robotic arms (ROS, Python)
  - Mapping_Turtlebot:
  
-       Mapping using simulated Turtlebot in ROS
+       Mapping using simulated Turtlebot in ROS (ROS, Python)
  - PF_Localization:
  
        PF Localization in a MATLAB Simulation Environment
  - Tiago_Behaviour:
  
-       Behaviours for a simulated Tiago robot in an apartment environment
+       Behaviours for a simulated Tiago robot in an apartment environment (ROS, Python)
 
 
 Best,
